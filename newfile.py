@@ -11,3 +11,5 @@ new code to show diff command
 
 Touch  changes  for  difff
 >>>>>>> newfeature
+new  diif text
+
